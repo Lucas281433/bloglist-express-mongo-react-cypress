@@ -1,0 +1,15 @@
+.button-cancel.MuiButton-root {
+  background-color: #f40008;
+}
+
+.button-cancel.MuiButton-root:hover {
+  background-color: #9a031e;
+}
+
+.button-togglable.MuiButton-root {
+  margin-top: 0.5rem;
+}
+
+.icon-togglable {
+  margin-right: 0.2rem;
+}
